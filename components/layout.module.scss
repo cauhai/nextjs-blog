@@ -1,0 +1,14 @@
+.layoutContainer {
+  border: 2px dotted aqua;
+  padding: 1rem;
+  margin: 2rem;
+  p {
+    color: MidnightBlue;
+  }
+  .toHome {
+    font-size: 1.5rem;
+    &:hover {
+      font-size: 2rem;
+    }
+  }
+}

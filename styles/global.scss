@@ -1,0 +1,10 @@
+body {
+  font-family: Bahnschrift, "Bodoni MT"
+}
+
+a {
+  color: OliveDrab;
+  &:hover {
+    color: YellowGreen;
+  }
+}
